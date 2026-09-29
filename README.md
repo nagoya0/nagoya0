@@ -8,7 +8,7 @@ Making things that feel alive, not just things that move.
 - **XR**: Varjo XR-3, Meta Quest, Magic Leap 2, HoloLens 2, Apple Vision Pro, XREAL, MRTK, VRM, Live2D
 - **Realtime**: WebRTC, RTSP, UDP, Photon, Netcode for GameObjects, DirectShow
 - **Web**: Next.js, React, Cloudflare Workers, Vercel
-- **Interests**: Generative AI, characters that hold a conversation, local inference
+- **Interests**: Simple rules that add up to something worth watching — boids, ant pheromone trails, Conway's Life, city builders. The whole technical craft of making games, generative AI, making characters feel alive in conversation
 - **Engineering Style**: Read the source. Someone already answered this in 2019 and forgot to write it down
 - **Desk Life**: A headless Mac mini running local LLMs, and an e-paper calendar I built for family that generates roughly one support call per month
 
