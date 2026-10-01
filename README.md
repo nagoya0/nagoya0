@@ -9,6 +9,7 @@ Making things that feel alive, not just things that move.
 - **Realtime**: WebRTC, RTSP, UDP, Photon, Netcode for GameObjects, DirectShow
 - **Web**: Next.js, React, Cloudflare Workers, Vercel
 - **Interests**: Simple rules that add up to something worth watching — boids, ant pheromone trails, Conway's Life, city builders. The whole technical craft of making games, generative AI, making characters feel alive in conversation
+- **Favorite Games**: SimCity, where it started. Ace Combat, the reason I went into games. These days, Paradox grand strategy
 - **Engineering Style**: Read the source. Someone already answered this in 2019 and forgot to write it down
 - **Desk Life**: A headless Mac mini running local LLMs, and an e-paper calendar I built for family that generates roughly one support call per month
 
